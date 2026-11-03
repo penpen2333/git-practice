@@ -25,6 +25,9 @@ __pycache__/
 .venv/
 venv/
 
+# 工作区本地数据（含记忆文件，不纳入版本控制）
+.workbuddy/
+
 # 环境变量与密钥
 .env
 .env.local
